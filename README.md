@@ -144,6 +144,15 @@ If you do not use GitHub CLI, you can still follow the same Git steps above and 
 
 We will review and update contributions as promptly as we can.
 
+## Collaborators
+
+<a href="https://github.com/FugeCantabile">
+  <img src="https://github.com/FugeCantabile.png?size=50" width="50" height="50" alt="FugeCantabile" />
+</a>
+<a href="https://github.com/HughQuain">
+  <img src="https://github.com/HughQuain.png?size=50" width="50" height="50" alt="HughQuain" />
+</a>
+
 ## File Structure
 
 ```text
