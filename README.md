@@ -46,7 +46,7 @@ The fanzine includes eighteen illustrations depicting classic scenes from the El
 For the fanzine's title, we chose **"Entwined Quills."**
 
 - Its abbreviation is **EQ**, a direct nod to Ellery Queen
-- The **Q** also echoes EQ's own signature
+- The **Q** in the book title on the cover
 - The imagery of intertwined feathers suggests dual authorship, collaboration, and creation
 
 After finalizing the name, we were delighted to discover that, much like one of EQ's favorite word games, **"Entwined Quills"** can be rearranged into:
