@@ -1,17 +1,21 @@
 # Entwined Quills
 
-> *Ellery Queen Fanzine*  
-> A reader-made tribute project created by Chinese Ellery Queen enthusiasts.
+> *Ellery Queen 120th Anniversary Fanzine*  
+> A commemorative project created by Chinese Ellery Queen enthusiasts.
 
 ---
 
-## At a Glance
+## About This Project
 
-We have completed the final version of **Entwined Quills**, a fanzine dedicated to Ellery Queen.
+**Entwined Quills** is a special project created to commemorate the **120th anniversary of Ellery Queen**.
 
-This project brings together fiction, criticism, translations, Q&A material, and reference timelines in one volume set.
+We are publicly sharing the digital edition that we produced ourselves so that more readers can access and enjoy it.
+
+We also welcome translations in other languages, and translators are very welcome to submit their work through Pull Requests.
 
 ## What's Inside
+
+This fanzine brings together fiction, criticism, translations, Q&A material, and reference timelines in one collected project.
 
 ### Volume 1
 
@@ -50,8 +54,7 @@ After finalizing the name, we were delighted to discover that, much like one of 
 > **Queen still wind**
 
 The Chinese title is **缱绻之翎**  
-Pinyin: **Qiǎnquǎn Zhī Líng**  
-Pronunciation: **"chien-chwen jir ling"** (approximate English guide)
+Pinyin: **Qiǎnquǎn Zhī Líng**
 
 This title was chosen for its classical, elegant tone and literary feeling in Chinese.
 
@@ -60,13 +63,39 @@ This title was chosen for its classical, elegant tone and literary feeling in Ch
 If you have read the fanzine and would like to share your thoughts, long reviews and short comments are both warmly welcome.
 
 - You are welcome to post your response in [Issues](https://github.com/FugeCantabile/Entwined-Quills/issues)
-- If you publish a review elsewhere, feel free to share the link in an Issue as well
+- If you publish a review elsewhere, feel free to share the review link in an Issue as well
 
 We would be very happy to read your impressions.
 
+### How to Submit a Comment Issue
+
+If you use the GitHub CLI:
+
+```bash
+# 1. Fork or clone the repository if needed
+git clone https://github.com/FugeCantabile/Entwined-Quills.git
+cd Entwined-Quills
+
+# 2. Log in to GitHub CLI
+gh auth login
+
+# 3. Create an issue for your short comment or long review
+gh issue create \
+  --title "My reading notes on Entwined Quills" \
+  --body "I have finished reading the fanzine. Here are my comments..."
+```
+
+If you want to share an external review link:
+
+```bash
+gh issue create \
+  --title "Review link: [your review title]" \
+  --body "I published my review here: https://example.com/your-review"
+```
+
 ## Translation Contributions
 
-**If you are interested in this project, you are very welcome to translate it into other languages.**
+**If you are interested in translating this project, you are very welcome to contribute.**
 
 We especially welcome:
 
@@ -74,13 +103,44 @@ We especially welcome:
 - Japanese translation
 - Other language translations
 
-### How to Contribute a Translation
+Please note that this repository mainly hosts the released digital edition itself. Translation contributions should be submitted as additional files, rather than replacing the original edition.
 
-1. Fork this repository
-2. Create a translation branch, such as `translation/en-readme`
-3. Submit your translation file, such as `README.en.md`
-4. Open a Pull Request
-5. Wait for review and merge
+### How to Submit a Translation Pull Request
+
+If you want to contribute a translation, the recommended workflow is:
+
+```bash
+# 1. Fork the repository on GitHub, then clone your fork
+git clone https://github.com/YOUR_USERNAME/Entwined-Quills.git
+cd Entwined-Quills
+
+# 2. Add the original repository as upstream
+git remote add upstream https://github.com/FugeCantabile/Entwined-Quills.git
+
+# 3. Create a translation branch
+git checkout -b translation/en-readme
+
+# 4. Add your translation file
+# Example:
+# README.en.md
+
+# 5. Stage and commit your work
+git add README.en.md
+git commit -m "Add English translation of README"
+
+# 6. Push your branch to your fork
+git push origin translation/en-readme
+
+# 7. Create a Pull Request with GitHub CLI
+gh pr create \
+  --repo FugeCantabile/Entwined-Quills \
+  --base main \
+  --head YOUR_USERNAME:translation/en-readme \
+  --title "Add English translation of README" \
+  --body "This PR adds an English translation of README.md."
+```
+
+If you do not use GitHub CLI, you can still follow the same Git steps above and then open the Pull Request on GitHub in your browser.
 
 We will review and update contributions as promptly as we can.
 
