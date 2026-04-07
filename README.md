@@ -21,7 +21,7 @@ We also welcome translations in other languages, and translators are very welcom
 
 ### Promotional Video
 
-https://github.com/FugeCantabile/Entwined-Quills/blob/main/promotional-video.mp4
+🎬 **Watch the promotional video:** [Download from Releases](https://github.com/FugeCantabile/Entwined-Quills/releases)
 
 ## What's Inside
 
