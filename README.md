@@ -13,6 +13,16 @@ We are publicly sharing the digital edition that we produced ourselves so that m
 
 We also welcome translations in other languages, and translators are very welcome to submit their work through Pull Requests.
 
+## Promotional Materials
+
+### Poster
+
+![Promotional Poster](promotional-poster.jpg)
+
+### Promotional Video
+
+<video src="promotional-video.mp4" controls></video>
+
 ## What's Inside
 
 This fanzine brings together fiction, criticism, translations, Q&A material, and reference timelines in one collected project.
