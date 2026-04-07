@@ -21,7 +21,9 @@ We also welcome translations in other languages, and translators are very welcom
 
 ### Promotional Video
 
-🎬 **[Watch the promotional video](https://github.com/FugeCantabile/Entwined-Quills/releases)**
+[Watch the promotional video](https://github.com/FugeCantabile/Entwined-Quills/releases)
+
+*Note: This video is hosted in GitHub Releases and cannot be embedded directly in the README due to GitHub's 10MB limit for drag-and-drop video uploads in markdown files.*
 
 ## What's Inside
 
