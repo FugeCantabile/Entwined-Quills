@@ -74,7 +74,7 @@ This project is licensed under the [CC-BY-NC-SA 4.0](https://creativecommons.org
 ## File Structure
 
 ```
-├── Entwined-Quills.epub    # Original EPUB file
+├── Entwined Quills International Edition.epub  # Original EPUB file
 ├── LICENSE                 # CC-BY-NC-SA 4.0 License
 ├── README.md               # This file
 └── SETUP.md                # Git LFS Installation Guide

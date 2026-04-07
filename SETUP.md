@@ -41,7 +41,7 @@ git lfs track "*.epub"
 ## 步骤 3: 添加并提交 EPUB 文件
 
 ```bash
-git add .gitattributes Entwined-Quills.epub
+git add .gitattributes "Entwined Quills International Edition.epub"
 git commit -m "Add EPUB file with LFS"
 ```
 
