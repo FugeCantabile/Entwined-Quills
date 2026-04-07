@@ -1,33 +1,85 @@
 # Entwined Quills
 
-> 📖 开源翻译项目 | Open Translation Project
+> Ellery Queen Fanzine
 
-## 许可证 License
+---
 
-本项目采用 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 许可证。
+## Project Overview
 
-- **署名 (BY)**: 使用时必须署名原作者
-- **非商业 (NC)**: 不得用于商业目的
-- **相同方式共享 (SA)**: 衍生作品必须采用相同许可证
+We have completed the final version of the Ellery Queen fanzine.
 
-## 贡献指南 Contributing
+**Volume 1** contains seven tribute stories written by Chinese Ellery Queen enthusiasts.
 
-欢迎通过 Pull Request 提交翻译！
+**Volume 2** features:
+- Articles by Chinese enthusiasts reviewing Ellery Queen
+- Chinese translations of Japanese and American reviews
+- Q&A sections
 
-1. Fork 本仓库
-2. 创建分支 (`git checkout -b translation/chapter-1`)
-3. 提交翻译内容
-4. 创建 Pull Request
-5. 等待审查合并
+At the end, we created three timelines:
+1. A timeline detailing the authors' creative careers
+2. A timeline charting the publication dates of their works
+3. A timeline documenting the possible chronology of cases solved by Ellery Queen and Drury Lane
 
-## 文件结构
+To compile these timelines, we consulted numerous sources.
+
+## Illustrations
+
+We created eighteen illustrations depicting classic scenes from the Ellery Queen novels.
+
+## Origin of the Name
+
+For the fanzine's name, we settled on the title "Entwined Quills".
+
+- The abbreviation for this phrase is "EQ", referencing Ellery Queen
+- The "Q" references EQ's own signature
+- The concept of "twin" and the two feathers on the cover suggest two individuals manipulating quills to create
+
+After finalizing this title, we were surprised to discover—much like EQ's beloved anagram games—that the phrase can be rearranged into "Queen still wind".
+
+The Chinese translation is named "缱绻之翎" (Qian Zuan Zhi Ling). This title has a classical and elegant feel for Chinese readers, resembling classical Chinese.
+
+---
+
+## Translation Contributions
+
+**If you are interested in this project, you are welcome to translate it into other languages!**
+
+We especially need:
+- English translation
+- Japanese translation
+- Other language translations
+
+### How to Contribute a Translation
+
+1. Fork this repository
+2. Create a translation branch (e.g., `translation/en-readme`)
+3. Submit your translation file (e.g., `README.en.md`)
+4. Create a Pull Request
+5. Wait for review and merge
+
+We will review and update in a timely manner!
+
+---
+
+## License
+
+This project is licensed under the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
+
+- **Attribution (BY)**: You must give appropriate credit to the original authors
+- **NonCommercial (NC)**: You may not use the material for commercial purposes
+- **ShareAlike (SA)**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+
+---
+
+## File Structure
 
 ```
-├── Entwined-Quills.epub    # 原始 EPUB 文件
-├── LICENSE                 # CC-BY-NC-SA 4.0 许可证
-└── README.md               # 本文件
+├── Entwined-Quills.epub    # Original EPUB file
+├── LICENSE                 # CC-BY-NC-SA 4.0 License
+├── README.md               # This file
+└── SETUP.md                # Git LFS Installation Guide
 ```
 
 ---
 
-🎵 _待更新..._
+Entwined Quills = Queen still wind
