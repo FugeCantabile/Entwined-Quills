@@ -144,24 +144,6 @@ If you do not use GitHub CLI, you can still follow the same Git steps above and 
 
 We will review and update contributions as promptly as we can.
 
-## Collaborators
-
-<a href="https://github.com/FugeCantabile">
-  <img src="https://github.com/FugeCantabile.png?size=50" width="50" height="50" style="border-radius: 50%" alt="FugeCantabile" />
-</a>
-<a href="https://github.com/HughQuain">
-  <img src="https://github.com/HughQuain.png?size=50" width="50" height="50" style="border-radius: 50%" alt="HughQuain" />
-</a>
-
-## File Structure
-
-```text
-├── Entwined Quills International Edition.epub  # Original EPUB file
-├── LICENSE                                     # CC-BY-NC-SA 4.0 License
-├── README.md                                   # Project overview
-└── SETUP.md                                    # Git LFS installation guide
-```
-
 ## License
 
 This project is licensed under the [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
