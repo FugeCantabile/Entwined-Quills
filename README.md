@@ -21,7 +21,9 @@ We also welcome translations in other languages, and translators are very welcom
 
 ### Promotional Video
 
-🎬 **Watch the promotional video:** [Download from Releases](https://github.com/FugeCantabile/Entwined-Quills/releases)
+🎬 **Watch on Bilibili:** [【埃勒里·奎因120周年纪念刊】缱绻之翎](https://b23.tv/eKBIU9T)
+
+[![Watch the video](promotional-poster.jpg)](https://b23.tv/eKBIU9T)
 
 ## What's Inside
 
