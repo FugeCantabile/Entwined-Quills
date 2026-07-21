@@ -1,3 +1,9 @@
+<p align="center">
+  <strong>English</strong> |
+  <a href="README.zh-CN.md">简体中文</a> |
+  <a href="README.ja.md">日本語</a>
+</p>
+
 # Entwined Quills
 
 > *Ellery Queen 120th Anniversary Fanzine*  
@@ -21,9 +27,7 @@ We also welcome translations in other languages, and translators are very welcom
 
 ### Promotional Video
 
-[Watch the promotional video](https://github.com/FugeCantabile/Entwined-Quills/releases)
-
-*Note: This video is hosted in GitHub Releases and cannot be embedded directly in the README due to GitHub's 10MB limit for drag-and-drop video uploads in markdown files.*
+https://github.com/user-attachments/assets/2a72cb93-78a5-4cc7-863a-19984768d463
 
 ## What's Inside
 
