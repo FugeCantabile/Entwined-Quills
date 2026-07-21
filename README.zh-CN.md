@@ -4,10 +4,18 @@
   <a href="README.ja.md">日本語</a>
 </p>
 
-# 缱绻之翎
+<h1 align="center">缱绻之翎</h1>
 
-> *埃勒里·奎因诞辰 120 周年纪念同人志*  
-> 由中国埃勒里·奎因爱好者共同创作的纪念企划。
+<p align="center">
+  <em>埃勒里·奎因诞辰 120 周年纪念同人志</em><br>
+  由中国埃勒里·奎因爱好者共同创作的纪念企划。
+</p>
+
+<p align="center">
+  <a href="https://github.com/FugeCantabile/Entwined-Quills/releases/latest"><img alt="最新版本" src="https://img.shields.io/github/v/release/FugeCantabile/Entwined-Quills?display_name=tag&amp;sort=semver&amp;style=flat-square&amp;logo=github"></a>
+  <a href="LICENSE"><img alt="许可协议：CC BY-NC-SA 4.0" src="https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-2f855a?style=flat-square&amp;logo=creativecommons&amp;logoColor=white"></a>
+  <a href="https://github.com/FugeCantabile/Entwined-Quills/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/FugeCantabile/Entwined-Quills?style=flat-square&amp;logo=github"></a>
+</p>
 
 ---
 

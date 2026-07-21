@@ -4,10 +4,18 @@
   <strong>日本語</strong>
 </p>
 
-# Entwined Quills
+<h1 align="center">Entwined Quills</h1>
 
-> *エラリー・クイーン生誕120周年記念ファンジン*  
-> 中国のエラリー・クイーン愛好家による記念プロジェクトです。
+<p align="center">
+  <em>エラリー・クイーン生誕120周年記念ファンジン</em><br>
+  中国のエラリー・クイーン愛好家による記念プロジェクトです。
+</p>
+
+<p align="center">
+  <a href="https://github.com/FugeCantabile/Entwined-Quills/releases/latest"><img alt="最新リリース" src="https://img.shields.io/github/v/release/FugeCantabile/Entwined-Quills?display_name=tag&amp;sort=semver&amp;style=flat-square&amp;logo=github"></a>
+  <a href="LICENSE"><img alt="ライセンス：CC BY-NC-SA 4.0" src="https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-2f855a?style=flat-square&amp;logo=creativecommons&amp;logoColor=white"></a>
+  <a href="https://github.com/FugeCantabile/Entwined-Quills/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/FugeCantabile/Entwined-Quills?style=flat-square&amp;logo=github"></a>
+</p>
 
 ---
 

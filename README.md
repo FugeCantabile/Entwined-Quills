@@ -4,10 +4,18 @@
   <a href="README.ja.md">日本語</a>
 </p>
 
-# Entwined Quills
+<h1 align="center">Entwined Quills</h1>
 
-> *Ellery Queen 120th Anniversary Fanzine*  
-> A commemorative project created by Chinese Ellery Queen enthusiasts.
+<p align="center">
+  <em>Ellery Queen 120th Anniversary Fanzine</em><br>
+  A commemorative project created by Chinese Ellery Queen enthusiasts.
+</p>
+
+<p align="center">
+  <a href="https://github.com/FugeCantabile/Entwined-Quills/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/FugeCantabile/Entwined-Quills?display_name=tag&amp;sort=semver&amp;style=flat-square&amp;logo=github"></a>
+  <a href="LICENSE"><img alt="License: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-2f855a?style=flat-square&amp;logo=creativecommons&amp;logoColor=white"></a>
+  <a href="https://github.com/FugeCantabile/Entwined-Quills/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/FugeCantabile/Entwined-Quills?style=flat-square&amp;logo=github"></a>
+</p>
 
 ---
 
