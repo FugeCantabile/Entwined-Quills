@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FugeCantabile/Entwined-Quills/releases/latest"><img alt="最新リリース" src="https://img.shields.io/github/v/release/FugeCantabile/Entwined-Quills?display_name=tag&amp;sort=semver&amp;style=flat&amp;logo=github"></a>
+  <a href="https://media.githubusercontent.com/media/FugeCantabile/Entwined-Quills/main/Entwined%20Quills%28International%20Edition%29.epub"><img alt="EPUB をダウンロード" src="https://img.shields.io/badge/download-EPUB-0969da?style=flat&amp;logo=bookstack&amp;logoColor=white"></a>
   <a href="LICENSE"><img alt="ライセンス：CC BY-NC-SA 4.0" src="https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-2f855a?style=flat&amp;logo=creativecommons&amp;logoColor=white"></a>
   <a href="https://github.com/FugeCantabile/Entwined-Quills/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/FugeCantabile/Entwined-Quills?style=flat&amp;logo=github"></a>
 </p>
